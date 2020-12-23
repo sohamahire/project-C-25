@@ -20,7 +20,7 @@ function setup() {
 	
 	paperObject=new Paper(200,450,70);
 	groundObject=new Ground(width/2,620,width,20);
-	dustbin1=new Dustbin(1100,510,200,200);
+	dustbin1=new Dustbin(1100,510,200,10);
 	//dustbin2=new Dustbin(1000,510,20,200);
 	//dustbin3=new Dustbin(1100,600,200,20);
 	//Create a Ground
